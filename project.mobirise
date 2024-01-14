@@ -41,14 +41,19 @@
       }
     ],
     "favicon": false,
-    "mbrsiteDomain": "71ox3apxkz",
-    "imageResize": false,
+    "mbrsiteDomain": "88axwfd3fg",
+    "imageResize": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false,
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    },
     "uniqCompNum": 84,
     "versionPublish": "5.6.8",
     "screenshot": "screenshot.png",
