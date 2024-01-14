@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Gobeil_Lab",
-    "currentPage": "index.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -5639,7 +5639,7 @@
         }
       ]
     },
-    "page8.html": {
+    "Pierreluc.html": {
       "settings": {
         "title": "PierreLuc-Bio",
         "order": 5
@@ -6302,7 +6302,7 @@
         }
       ]
     },
-    "page9.html": {
+    "Sabrina.html": {
       "settings": {
         "title": "Sabrina-Bio",
         "order": 6
@@ -6965,7 +6965,7 @@
         }
       ]
     },
-    "page10.html": {
+    "RoseMarie.html": {
       "settings": {
         "title": "Rose-Marie-Bio",
         "order": 7
